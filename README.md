@@ -2,6 +2,10 @@
 
 A simple and responsive **Temperature Converter** built with **HTML, CSS, and JavaScript**. It allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** with a clean and modern user interface.
 
+## ScreenShot
+
+<img width="896" height="763" alt="Screenshot 2026-08-23 100708" src="https://github.com/user-attachments/assets/7bec4ca1-0d96-41cf-bd93-5dc60650a3ab" />
+
 ## Features
 
 * Convert between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**
